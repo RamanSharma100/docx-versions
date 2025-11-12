@@ -311,7 +311,7 @@ document.addEventListener("DOMContentLoaded", function () {
         const url = window.URL.createObjectURL(blob);
         const a = document.createElement("a");
         a.href = url;
-        a.download = `${window.APP.docId}-versions.docx`;
+        a.download = `${window.APP.docId}-versions.zip`;
         document.body.appendChild(a);
         a.click();
         window.URL.revokeObjectURL(url);
