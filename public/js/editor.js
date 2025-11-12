@@ -235,7 +235,7 @@ document.addEventListener("DOMContentLoaded", function () {
     setButtonLoading(saveBtn, true);
 
     try {
-      const result = await saveCurrent();
+      await saveCurrent();
       showMessage("Document saved successfully!");
       await loadVersions(); // Refresh versions list
     } catch (error) {
