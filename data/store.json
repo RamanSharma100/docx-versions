@@ -1,0 +1,223 @@
+{
+  "files": {
+    "b70dfc60-2858-431e-a9f6-a05517ec1132": {
+      "id": "b70dfc60-2858-431e-a9f6-a05517ec1132",
+      "originalName": "sample1.docx",
+      "path": "D:\\projects\\docs-version\\uploads\\b70dfc60-2858-431e-a9f6-a05517ec1132.docx",
+      "uploadedAt": "2025-11-12T17:42:54.882Z"
+    },
+    "86dca548-8d78-46bb-b5cc-a055e4238acf": {
+      "id": "86dca548-8d78-46bb-b5cc-a055e4238acf",
+      "originalName": "sample1.docx",
+      "path": "D:\\projects\\docs-version\\uploads\\86dca548-8d78-46bb-b5cc-a055e4238acf.docx",
+      "uploadedAt": "2025-11-12T17:47:39.477Z"
+    },
+    "468e0eda-9813-40b0-9c31-994efc3445a2": {
+      "id": "468e0eda-9813-40b0-9c31-994efc3445a2",
+      "originalName": "sample1.docx",
+      "path": "D:\\projects\\docs-version\\uploads\\468e0eda-9813-40b0-9c31-994efc3445a2.docx",
+      "uploadedAt": "2025-11-12T17:57:01.847Z"
+    },
+    "fe7a6ce7-473d-410b-84fd-990d009ed67c": {
+      "id": "fe7a6ce7-473d-410b-84fd-990d009ed67c",
+      "originalName": "sample1.docx",
+      "path": "D:\\projects\\docs-version\\uploads\\fe7a6ce7-473d-410b-84fd-990d009ed67c.docx",
+      "uploadedAt": "2025-11-12T18:02:37.199Z"
+    },
+    "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81": {
+      "id": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81",
+      "originalName": "sample1.docx",
+      "path": "D:\\projects\\docs-version\\uploads\\34f95bb1-c3c8-40f8-9caa-a0e5bd073c81.docx",
+      "uploadedAt": "2025-11-12T18:10:26.870Z"
+    },
+    "ea51e46c-366d-48e1-9792-00e8df94b803": {
+      "id": "ea51e46c-366d-48e1-9792-00e8df94b803",
+      "originalName": "sample1.docx",
+      "path": "D:\\projects\\docs-version\\uploads\\ea51e46c-366d-48e1-9792-00e8df94b803.docx",
+      "uploadedAt": "2025-11-12T18:14:40.841Z"
+    },
+    "33edf80a-aa7e-4cac-8925-193d6adc906c": {
+      "id": "33edf80a-aa7e-4cac-8925-193d6adc906c",
+      "originalName": "sample2.docx",
+      "path": "D:\\projects\\docs-version\\uploads\\33edf80a-aa7e-4cac-8925-193d6adc906c.docx",
+      "uploadedAt": "2025-11-12T18:33:03.892Z"
+    }
+  },
+  "versions": {
+    "b70dfc60-2858-431e-a9f6-a05517ec1132": [
+      {
+        "id": "b70dfc60-2858-431e-a9f6-a05517ec1132::1",
+        "docId": "b70dfc60-2858-431e-a9f6-a05517ec1132",
+        "versionNumber": 1,
+        "htmlPath": "versions\\b70dfc60-2858-431e-a9f6-a05517ec1132\\v1.html",
+        "createdAt": "2025-11-12T17:43:39.700Z"
+      }
+    ],
+    "86dca548-8d78-46bb-b5cc-a055e4238acf": [
+      {
+        "id": "86dca548-8d78-46bb-b5cc-a055e4238acf::1",
+        "docId": "86dca548-8d78-46bb-b5cc-a055e4238acf",
+        "versionNumber": 1,
+        "htmlPath": "versions\\86dca548-8d78-46bb-b5cc-a055e4238acf\\v1.html",
+        "createdAt": "2025-11-12T17:48:23.346Z"
+      }
+    ],
+    "468e0eda-9813-40b0-9c31-994efc3445a2": [
+      {
+        "id": "468e0eda-9813-40b0-9c31-994efc3445a2::1",
+        "docId": "468e0eda-9813-40b0-9c31-994efc3445a2",
+        "versionNumber": 1,
+        "htmlPath": "versions\\468e0eda-9813-40b0-9c31-994efc3445a2\\v1.html",
+        "createdAt": "2025-11-12T17:57:44.517Z"
+      }
+    ],
+    "fe7a6ce7-473d-410b-84fd-990d009ed67c": [
+      {
+        "id": "fe7a6ce7-473d-410b-84fd-990d009ed67c::1",
+        "docId": "fe7a6ce7-473d-410b-84fd-990d009ed67c",
+        "versionNumber": 1,
+        "htmlPath": "versions\\fe7a6ce7-473d-410b-84fd-990d009ed67c\\v1.html",
+        "createdAt": "2025-11-12T18:03:23.202Z"
+      },
+      {
+        "id": "fe7a6ce7-473d-410b-84fd-990d009ed67c::2",
+        "docId": "fe7a6ce7-473d-410b-84fd-990d009ed67c",
+        "versionNumber": 2,
+        "htmlPath": "versions\\fe7a6ce7-473d-410b-84fd-990d009ed67c\\v2.html",
+        "createdAt": "2025-11-12T18:03:45.542Z"
+      },
+      {
+        "id": "fe7a6ce7-473d-410b-84fd-990d009ed67c::3",
+        "docId": "fe7a6ce7-473d-410b-84fd-990d009ed67c",
+        "versionNumber": 3,
+        "htmlPath": "versions\\fe7a6ce7-473d-410b-84fd-990d009ed67c\\v3.html",
+        "createdAt": "2025-11-12T18:04:11.438Z"
+      }
+    ],
+    "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81": [
+      {
+        "id": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81::1",
+        "docId": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81",
+        "versionNumber": 1,
+        "htmlPath": "versions\\34f95bb1-c3c8-40f8-9caa-a0e5bd073c81\\v1.html",
+        "createdAt": "2025-11-12T18:11:09.690Z"
+      },
+      {
+        "id": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81::2",
+        "docId": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81",
+        "versionNumber": 2,
+        "htmlPath": "versions\\34f95bb1-c3c8-40f8-9caa-a0e5bd073c81\\v2.html",
+        "createdAt": "2025-11-12T18:11:29.936Z"
+      },
+      {
+        "id": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81::3",
+        "docId": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81",
+        "versionNumber": 3,
+        "htmlPath": "versions\\34f95bb1-c3c8-40f8-9caa-a0e5bd073c81\\v3.html",
+        "createdAt": "2025-11-12T18:11:35.681Z"
+      },
+      {
+        "id": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81::4",
+        "docId": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81",
+        "versionNumber": 4,
+        "htmlPath": "versions\\34f95bb1-c3c8-40f8-9caa-a0e5bd073c81\\v4.html",
+        "createdAt": "2025-11-12T18:12:03.619Z"
+      },
+      {
+        "id": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81::5",
+        "docId": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81",
+        "versionNumber": 5,
+        "htmlPath": "versions\\34f95bb1-c3c8-40f8-9caa-a0e5bd073c81\\v5.html",
+        "createdAt": "2025-11-12T18:12:10.704Z"
+      },
+      {
+        "id": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81::6",
+        "docId": "34f95bb1-c3c8-40f8-9caa-a0e5bd073c81",
+        "versionNumber": 6,
+        "htmlPath": "versions\\34f95bb1-c3c8-40f8-9caa-a0e5bd073c81\\v6.html",
+        "createdAt": "2025-11-12T18:12:29.689Z"
+      }
+    ],
+    "ea51e46c-366d-48e1-9792-00e8df94b803": [
+      {
+        "id": "ea51e46c-366d-48e1-9792-00e8df94b803::1",
+        "docId": "ea51e46c-366d-48e1-9792-00e8df94b803",
+        "versionNumber": 1,
+        "htmlPath": "versions\\ea51e46c-366d-48e1-9792-00e8df94b803\\v1.html",
+        "createdAt": "2025-11-12T18:15:26.326Z"
+      },
+      {
+        "id": "ea51e46c-366d-48e1-9792-00e8df94b803::2",
+        "docId": "ea51e46c-366d-48e1-9792-00e8df94b803",
+        "versionNumber": 2,
+        "htmlPath": "versions\\ea51e46c-366d-48e1-9792-00e8df94b803\\v2.html",
+        "createdAt": "2025-11-12T18:15:36.690Z"
+      },
+      {
+        "id": "ea51e46c-366d-48e1-9792-00e8df94b803::3",
+        "docId": "ea51e46c-366d-48e1-9792-00e8df94b803",
+        "versionNumber": 3,
+        "htmlPath": "versions\\ea51e46c-366d-48e1-9792-00e8df94b803\\v3.html",
+        "createdAt": "2025-11-12T18:16:23.082Z"
+      },
+      {
+        "id": "ea51e46c-366d-48e1-9792-00e8df94b803::4",
+        "docId": "ea51e46c-366d-48e1-9792-00e8df94b803",
+        "versionNumber": 4,
+        "htmlPath": "versions\\ea51e46c-366d-48e1-9792-00e8df94b803\\v4.html",
+        "createdAt": "2025-11-12T18:16:29.065Z"
+      },
+      {
+        "id": "ea51e46c-366d-48e1-9792-00e8df94b803::5",
+        "docId": "ea51e46c-366d-48e1-9792-00e8df94b803",
+        "versionNumber": 5,
+        "htmlPath": "versions\\ea51e46c-366d-48e1-9792-00e8df94b803\\v5.html",
+        "createdAt": "2025-11-12T18:16:57.810Z"
+      },
+      {
+        "id": "ea51e46c-366d-48e1-9792-00e8df94b803::6",
+        "docId": "ea51e46c-366d-48e1-9792-00e8df94b803",
+        "versionNumber": 6,
+        "htmlPath": "versions\\ea51e46c-366d-48e1-9792-00e8df94b803\\v6.html",
+        "createdAt": "2025-11-12T18:17:19.118Z"
+      },
+      {
+        "id": "ea51e46c-366d-48e1-9792-00e8df94b803::7",
+        "docId": "ea51e46c-366d-48e1-9792-00e8df94b803",
+        "versionNumber": 7,
+        "htmlPath": "versions\\ea51e46c-366d-48e1-9792-00e8df94b803\\v7.html",
+        "createdAt": "2025-11-12T18:17:20.264Z"
+      }
+    ],
+    "33edf80a-aa7e-4cac-8925-193d6adc906c": [
+      {
+        "id": "33edf80a-aa7e-4cac-8925-193d6adc906c::1",
+        "docId": "33edf80a-aa7e-4cac-8925-193d6adc906c",
+        "versionNumber": 1,
+        "htmlPath": "versions\\33edf80a-aa7e-4cac-8925-193d6adc906c\\v1.html",
+        "createdAt": "2025-11-12T18:33:33.832Z"
+      },
+      {
+        "id": "33edf80a-aa7e-4cac-8925-193d6adc906c::2",
+        "docId": "33edf80a-aa7e-4cac-8925-193d6adc906c",
+        "versionNumber": 2,
+        "htmlPath": "versions\\33edf80a-aa7e-4cac-8925-193d6adc906c\\v2.html",
+        "createdAt": "2025-11-12T18:35:59.023Z"
+      },
+      {
+        "id": "33edf80a-aa7e-4cac-8925-193d6adc906c::3",
+        "docId": "33edf80a-aa7e-4cac-8925-193d6adc906c",
+        "versionNumber": 3,
+        "htmlPath": "versions\\33edf80a-aa7e-4cac-8925-193d6adc906c\\v3.html",
+        "createdAt": "2025-11-12T18:38:28.120Z"
+      },
+      {
+        "id": "33edf80a-aa7e-4cac-8925-193d6adc906c::4",
+        "docId": "33edf80a-aa7e-4cac-8925-193d6adc906c",
+        "versionNumber": 4,
+        "htmlPath": "versions\\33edf80a-aa7e-4cac-8925-193d6adc906c\\v4.html",
+        "createdAt": "2025-11-12T18:38:40.926Z"
+      }
+    ]
+  }
+}
